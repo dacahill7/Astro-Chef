@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e4e922e04a9f0c07815b970552e01d2871c57139">
+        <dex dex="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ecb5d1dc4cd43e47bccc7c9da255df480de9e4ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_14d7efef703b10824f3d874362ec9212f0d99870\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6ac094121e75b4b87432beb9305d70c68ec6dcab">
+        <dex dex="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-25.0.0_3c0b1d4000865297a6f676dd4c1a5f47c89c1e10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_7cffbe2fd833c6d3ac920d95964ad0b0c445effa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_2aeb729591329f3f9e1f0119db321b92917e961c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_0fdd5be3d0e32ea58da53afb60ead00caf7aa41c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_1c26cd2c58f1ca2a33dc50cf45a0122450b82e02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_82d1aa97e881666b22d57e857dad4bba2c5e13df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_4a67c2dabe3092b4fe2e6abec5e1a3ad0d58547c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.0_8580bd48fd281952870a4c5d5632bd040dd018cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bbcb04fd5a98bad613e1174337f443aa90ab9c75">
+        <dex dex="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c18843f2fb2f1a995dddb8a7c6550c1b76870720\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_ba91804757efab57c838b10928c93d81f5587db0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.0_941f40786e2dad9f051ae66078f7a425889a1f69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.0_806440b9609f16f57ee8bd55be93f6ecd8327d76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_0c93d30d8b166f176c2f2625c099f9fb53abcfee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_008c8aae60ddb0e1b1f80ab31370a98ed452f94b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.0.0_9aaeda2effc7b8f11090089fb4a698e7e02a37c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="67355078cd30daae43f62ba47a4663ee6edb976e">
+        <dex dex="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_7718af4c0b7ecb098f118437fc5071d430d04498\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a846ddbf5bf88dee5f89d4dffe22c864f576d9b0">
+        <dex dex="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\me.zhanghai.android.materialprogressbar-library-1.3.0_f7d4f6ccc88d48814a6920f740f47ee745c7fd83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_6b0b7e421b55cc8892c2d6aba7c4527b96c23158\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaCah\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_d64392af14a096ea8606e051676b37f19baf1de2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_0d83b125dc67c18b1bd638e1a070585d477f2837\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.0_93d98214c92229921f453ee5a3f080826650f554\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_093cb72479033b5ae7ee385d35019bd812da2d7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_851b54756fb132fc20977045ebdebf406c094d62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_9212f8c90788be2278ca357aeedcac76c8d3b795\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\exploded-aar\com.afollestad\easyvideoplayer\0.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7c9ef64fc4b3c21a9b584017a93d7fe739ae711a">
+        <dex dex="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.afollestad-easyvideoplayer-0.3.0_a3e68b9955cc4a6c0419d4938f15eaa7ddff10a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\exploded-aar\com.afollestad\material-camera\0.4.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="175f726550290c1b2d325df9d5aa79ef96ed0498">
+        <dex dex="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.afollestad-material-camera-0.4.4_2e19708f113b54417f19ef744e9c1847b5ade8a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_ed97f1a555a664c677aa315ed8ed7ca42ded9e1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\exploded-aar\com.afollestad.material-dialogs\core\0.9.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="16795a75616fe3ba9df9ae4af09202145e3a26dc">
+        <dex dex="C:\Users\DaCah\Documents\GitHub\Astro_Chef-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.afollestad.material-dialogs-core-0.9.1.0_164af21e2f5e6ee0c91c257e62b1df5553289704\classes.dex" />
+    </item>
+
+</items>
